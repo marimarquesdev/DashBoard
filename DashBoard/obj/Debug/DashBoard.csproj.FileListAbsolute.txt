@@ -1,0 +1,15 @@
+C:\C#\FinalProject\DashBoard\DashBoard\bin\Debug\DashBoard.exe.config
+C:\C#\FinalProject\DashBoard\DashBoard\bin\Debug\DashBoard.exe
+C:\C#\FinalProject\DashBoard\DashBoard\bin\Debug\DashBoard.pdb
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.Form1.resources
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.exe
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.pdb
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.LottoMax.resources
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.Lotto_649.resources
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.Calculator.resources
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.Currency.resources
+C:\C#\FinalProject\DashBoard\DashBoard\obj\Debug\DashBoard.Temperature.resources
